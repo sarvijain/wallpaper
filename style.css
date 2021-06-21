@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(156, 99, 99);
+}
+  .space{
+   font-size: 40px;
+   font-style: oblique;
+   color:rgb(0, 0, 0);
+   background-color: rgb(146, 2, 122);
+  }
+
+  .cute{
+    font-size: 40px;
+   font-style: oblique;
+    background-color: rgb(255, 2, 141);
+  }
+
+  .simple{
+    font-size: 40px;
+   font-style: oblique;
+    background-color: rgb(19, 90, 117);
+  }
+  .cartoon{
+    font-size: 40px;
+   font-style: oblique;
+    background-color: rgb(1, 102, 47);
+  }
+  
